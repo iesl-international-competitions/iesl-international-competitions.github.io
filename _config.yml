@@ -44,3 +44,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
+
+github: [metadata]
