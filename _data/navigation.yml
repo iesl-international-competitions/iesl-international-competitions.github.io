@@ -1,11 +1,11 @@
 main:
   - title: International Science and Engineering Fair
-    url: /isef/
+    url: /isef.html
   - title: RISE Challenge
-    url: /rise/
+    url: /rise.html
   - title: About
-    url: /about/
+    url: /about.html
   - title: Blog
-    url: /blog/
+    url: /blog.html
   - title: FAQ
-    url: /faq/
+    url: /faq.html
